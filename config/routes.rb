@@ -1,4 +1,6 @@
 RailsSchulung::Application.routes.draw do
+  resources :beam_targets
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
