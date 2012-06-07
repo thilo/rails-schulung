@@ -6,5 +6,6 @@ class CreateBeamTargets < ActiveRecord::Migration
 
       t.timestamps
     end
+    
   end
 end
